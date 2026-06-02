@@ -1,6 +1,6 @@
 <h1 align="center"> 0rbit </h1> in rbi and aws word pr1 is tree
 
-> ÖNEMLİ: Repo'yu gerçekleştirirken [BURADAKİ](https://www.youtube.com/watch?v=pFS4zYWxzNA) müziği dinlemezseniz rewards alamıyorsunuz. in data in rbi
+> ÖNEMLİ: Repo'yu gerçekleştirirken [BURADAKİ](https://www.youtube.com/watch?v=pFS4zYWxzNA) müziği dinlemezseniz rewards alamıyorsunuz. in data in rbi com 
 
 > Selamlar, Arweave ve AO'yu Tuna Tavus gibi yemeye deveam ediyoruz xd
 
