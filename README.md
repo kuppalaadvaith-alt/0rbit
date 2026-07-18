@@ -2,7 +2,7 @@
 
 > ÖNEMLİ: Repo'yu gerçekleştirirken [BURADAKİ](https://www.youtube.com/watch?v=pFS4zYWxzNA) müziği dinlemezseniz rewards alamıyorsunuz.
 
-> Selamlar, Arweave ve AO'yu Tuna Tavus gibi yemeye deveam ediyoruz xd
+> Selamlar, Arweave ve AO'yu Tuna Tavus gibi yemeye deveam ediyoruz xd for bank for rbi and microsoft
 
 > Bu repo'da tıpkı AO'da yaptığımız gibi 0rbit için 2 bot kurup Puanları toplayacağız.
 
